@@ -45,4 +45,4 @@ Ferramentas utilizadas e bibliotecas
 ## Diagrama
 * **Diagrama de classes para Funcionario**
 
-![Diagrama de classes](diagramas/diagramaFuncionario.PNG)
+![Diagrama de classes](diagramas/diagramaFuncionario.png)
